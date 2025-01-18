@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/.build/arm64-apple-macosx/debug/AlignedCollectionViewFlowLayout.build/master.swiftdeps"
+  },
+  "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/AlignedCollectionViewFlowLayout/Classes/AlignedCollectionViewFlowLayout.swift": {
+    "dependencies": "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/.build/arm64-apple-macosx/debug/AlignedCollectionViewFlowLayout.build/AlignedCollectionViewFlowLayout.d",
+    "object": "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/.build/arm64-apple-macosx/debug/AlignedCollectionViewFlowLayout.build/AlignedCollectionViewFlowLayout.swift.o",
+    "swiftmodule": "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/.build/arm64-apple-macosx/debug/AlignedCollectionViewFlowLayout.build/AlignedCollectionViewFlowLayout~partial.swiftmodule",
+    "swift-dependencies": "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/.build/arm64-apple-macosx/debug/AlignedCollectionViewFlowLayout.build/AlignedCollectionViewFlowLayout.swiftdeps"
+  }
+}

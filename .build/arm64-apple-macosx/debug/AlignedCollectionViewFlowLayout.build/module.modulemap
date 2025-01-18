@@ -1,0 +1,4 @@
+module AlignedCollectionViewFlowLayout {
+    header "/Users/aksamitsah/Downloads/AlignedCollectionViewFlowLayout-master/.build/arm64-apple-macosx/debug/AlignedCollectionViewFlowLayout.build/AlignedCollectionViewFlowLayout-Swift.h"
+    requires objc
+}
